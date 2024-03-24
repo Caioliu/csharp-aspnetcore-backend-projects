@@ -1,3 +1,6 @@
 [submodule "api-gmc-industrial"]
 	path = api-gmc-industrial
 	url = https://github.com/Caioliu/api-gmc-industrial.git
+[submodule "api-rest-original-paineis"]
+	path = api-rest-original-paineis
+	url = https://github.com/Caioliu/api-rest-original-paineis.git
