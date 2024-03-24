@@ -4,3 +4,6 @@
 [submodule "api-rest-original-paineis"]
 	path = api-rest-original-paineis
 	url = https://github.com/Caioliu/api-rest-original-paineis.git
+[submodule "api-concretapp"]
+	path = api-concretapp
+	url = https://github.com/Caioliu/api-concretapp.git
