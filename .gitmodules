@@ -1,0 +1,3 @@
+[submodule "api-gmc-industrial"]
+	path = api-gmc-industrial
+	url = https://github.com/Caioliu/api-gmc-industrial.git
