@@ -7,3 +7,6 @@
 [submodule "api-concretapp"]
 	path = api-concretapp
 	url = https://github.com/Caioliu/api-concretapp.git
+[submodule "api-arqtool"]
+	path = api-arqtool
+	url = https://github.com/Caioliu/api-arqtool.git
